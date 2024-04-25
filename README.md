@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Malena Murcia, I am 18 years old. Last year I finished high school and now I am studying the third semester of Certified Tech Developer career by Mercado Libre and Globant.
+- 👋 Hi, I’m Malena Murcia, I am 20 years old.  I am studying the last semester of Certified Tech Developer career by Mercado Libre and Globant. Also i'm in my second year of engineering in IT. 
 - 👀 I’m interested in web development and Javascript.
 - 🌱 I’m currently learning JavaScript, MySQL, JAVA and I really like to practice web development.
-- 💞️ I’m looking to collaborate on a bootcamp, a skill factory or a trainee project.
+- 💞️ I’m looking to collaborate on a bootcamp or a trainee project.
 - 📫 How to reach me malenamurcia1235@gmail.com
 
 <!---
